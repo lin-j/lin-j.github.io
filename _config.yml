@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Jie / AI Scientist"
+title                    : "Lin Jie"
 title_separator          : "-"
 name                     : &name "Lin Jie"
 description              : &description "personal description"
