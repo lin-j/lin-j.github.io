@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<br>
+<b>Check my full publication list on [Google Scholar](https://scholar.google.com.sg/citations?user=bzhI8wcAAAAJ&hl=en).</b>
+<br>
 
-{% include base_path %}
+<br>
+<b> * denotes corresponding author, ^ denotes equal contribution.</b>
+<br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery.](http://lin-j.github.io)</b><br>
+Tianyi Zhang, <b>Jie Lin *</b>, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly
+<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2021</b>. <br />
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io), [code](https://lin-j.github.io)]</span>
