@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lin Jie / AI Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lin Jie"
 description              : &description "personal description"
 url                      : https://lin-j.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
