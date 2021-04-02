@@ -31,7 +31,7 @@ Education
   * Thesis: Compact Aggregated Descriptors for Mobile Visual Search
   * Keywords: Mobile Image Search, Data Compression, MPEG-7 Standardization
 
-Work experience
+Work Experience
 ------
 * Jun 2018 - present: Group Leader / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
   * Develop the next-generation edge AI hardware via full stack hardware-software co-optimization from deep learning algorithms down to silicon.
