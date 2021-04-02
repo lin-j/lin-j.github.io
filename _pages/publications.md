@@ -102,7 +102,20 @@ Conferences
 <i>Data Compression Conference (DCC).</i> <b>DCC 2015</b>.
 <span>[[pdf](https://ieeexplore.ieee.org/document/7149290), [bibtex](https://ieeexplore.ieee.org/document/7149290)]</span><br/>
 
+<b>[Hamming Compatible Quantization for Hashing.](https://dl.acm.org/doi/10.5555/2832415.2832568)</b>
+<br>Zhe Wang, Ling-Yu Duan, <b>Jie Lin</b>, Xiaofang Wang, Tiejun Huang, Wen Gao.
+<i>Proceedings of International Joint Conference on Artifical Intelligence (IJCAI).</i> <b>IJCAI 2015</b>.
+<span>[[pdf](http://www.cs.cmu.edu/~xiaofan2/paper/HCQ-IJCAI15.pdf), [bibtex](https://dl.acm.org/doi/10.5555/2832415.2832568)]</span><br/>
 
+<b>[Robust fisher codes for large scale image retrieval.](https://ieeexplore.ieee.org/abstract/document/6637904)</b>
+<br><b>Jie Lin</b>, Ling-Yu Duan, Tiejun Huang, Wen Gao.
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</i> <b>ICASSP 2013</b>.
+<span>[[pdf](https://ieeexplore.ieee.org/abstract/document/6637904), [bibtex](https://ieeexplore.ieee.org/abstract/document/6637904)]</span><br/>
+
+<b>[Learning Multiple Codebooks for Low-Bit-Rate Mobile Visual Search.](https://ieeexplore.ieee.org/document/6288038)</b>
+<br><b>Jie Lin</b>, Ling-Yu Duan, Jie Chen, Rongrong Ji, Siwei Luo, Wen Gao.
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</i> <b>ICASSP 2012</b>.
+<span>[[pdf](https://ieeexplore.ieee.org/document/6288038), [bibtex](https://ieeexplore.ieee.org/document/6288038)]</span><br/>
 
 Journals
 ======
