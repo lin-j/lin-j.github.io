@@ -9,8 +9,8 @@ author_profile: true
 <br> <b> * denotes corresponding author, ^ denotes equal contribution.</b> <br/>
 
 <b>[PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery.](http://lin-j.github.io)</b>
-<br>Tianyi Zhang, <b>Jie Lin *</b>, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly.<br/>.
-<br><i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2021</b>.
+<br>Tianyi Zhang, <b>Jie Lin *</b>, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly.
+<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2021</b>.
 <span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
 
 <b>[Learning Cross-modal Retrieval with Noisy Labels.](http://lin-j.github.io)</b><br>
