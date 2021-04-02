@@ -124,7 +124,7 @@ Journals
 
 <b>A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction.</b>
 <br>Huijing Zhan, <b>Jie Lin*</b>, Kenan Emir Ak, Boxin Shi, Ling-Yu Duan, Alex C. Kot.
-<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2021</b>.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2021</b>.
 <br/>
 
 <b>Cross-modal Discriminant Adversarial Network.</b>
@@ -139,7 +139,7 @@ Journals
 
 <b>Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation and Feature Learning.</b>
 <br>Huijing Zhan, Chenyu Yi, Boxin Shi <b>Jie Lin</b>, Ling-Yu Duan, Alex C. Kot.
-<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2020</b>.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2020</b>.
 <br/>
 
 <b>Towards the AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs.</b>
@@ -154,12 +154,12 @@ Journals
 
 <b>Codebook-Free Compact Descriptor for Scalable Visual Search.</b>
 <br>Yuwei Wu, Feng Gao, Yicheng Huang, <b>Jie Lin</b>, Vijay Chandrasekhar, Junsong Yuan, Lingyu Duan.
-<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2018</b>.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2018</b>.
 <br/>
 
 <b>HNIP: Compact Deep Invariant Representations for Video Matching, Localization and Retrieval.</b>
 <br><b>Jie Lin</b>, Lingyu Duan, Shiqi Wang, Yan Bai, Yihang Lou, Vijay Chandrasekhar, Tiejun Huang, Alex Kot, Wen Gao.
-<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2017</b>.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2017</b>.
 <br/>
 
 <b>3DHoPD: A Fast Low Dimensional 3D Descriptor.</b>
@@ -179,7 +179,7 @@ Journals
 
 <b>Weighted Component Hashing of Binary Aggregated Descriptors for Fast Visual Search.</b>
 <br>Lingyu Duan, <b>Jie Lin</b>, Zhe Wang, Tiejun Huang, Wen Gao.
-<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2015</b>.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2015</b>.
 <br/>
 
 <b>Rate-adaptive Compact Fisher Codes for Mobile Visual Search.</b>
