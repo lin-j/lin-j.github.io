@@ -82,6 +82,27 @@ Conferences
 <i>ACM International Conference on Multimedia Retrieval (ICMR).</i> <b>ICMR 2017</b>.
 <span>[[pdf](https://oar.a-star.edu.sg/jspui/bitstream/123456789/2365/3/sample-deephash.pdf), [bibtex](https://dl.acm.org/doi/abs/10.1145/3078971.3078983)]</span><br/>
 
+<b>[Object Detection Meets Knowledge Graphs.](https://www.ijcai.org/Proceedings/2017/230)</b>
+<br>Yuan Fang, Kingsley Kuan, <b>Jie Lin</b>, Cheston Tan, Vijay Chandrasekhar.
+<i>Proceedings of International Joint Conference on Artifical Intelligence (IJCAI).</i> <b>IJCAI 2017</b>.
+<span>[[pdf](https://www.ijcai.org/proceedings/2017/0230.pdf), [bibtex](https://www.ijcai.org/proceedings/2017/bibtex/230)]</span><br/>
+
+<b>[Compression of Deep Neural Networks for Image Instance Retrieval.](https://ieeexplore.ieee.org/document/7923643)</b>
+<br>Vijay Chandrasekhar^, <b>Jie Lin^</b>, Qianli Liao^, Olivier Morère, Antoine Veillard, Lingyu Duan, Tomaso Poggio.
+<i>Data Compression Conference (DCC).</i> <b>DCC 2017</b>.
+<span>[[pdf](https://ieeexplore.ieee.org/document/7923643), [bibtex](https://ieeexplore.ieee.org/document/7923643)]</span><br/>
+
+<b>[Tiny Descriptors for Image Retrieval with Unsupervised Triplet Hashing.](https://ieeexplore.ieee.org/document/7786184)</b>
+<br><b>Jie Lin^</b>, Olivier Morere, Julie Petta, Vijay Chandrasekhar, Antoine Veillard.
+<i>Data Compression Conference (DCC).</i> <b>DCC 2016</b>.
+<span>[[pdf](https://ieeexplore.ieee.org/document/7786184), [bibtex](https://ieeexplore.ieee.org/document/7786184)]</span><br/>
+
+<b>[Compact Global Descriptors for Visual Search.](https://ieeexplore.ieee.org/document/7149290)</b>
+<br>Vijay Chandrasekhar, <b>Jie Lin</b>, Olivier Morere, Antoine Veillard, Hanlin Goh.
+<i>Data Compression Conference (DCC).</i> <b>DCC 2015</b>.
+<span>[[pdf](https://ieeexplore.ieee.org/document/7149290), [bibtex](https://ieeexplore.ieee.org/document/7149290)]</span><br/>
+
+
 
 Journals
 ======
