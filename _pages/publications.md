@@ -11,12 +11,14 @@ author_profile: true
 
 Book Chapter
 ======
+
 <b>Deep Learning-Based Descriptors for Object Instance Search.</b>
 <br><b>Jie Lin</b>, Olivier Morere, Antoine Veillard, Vijay Chandrasekhar.
 <i>in Deep Learning in Object Detection and Recognition. Springer 2019.</i><br/>
 
 Conferences
 ======
+
 <b>[PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery.](http://lin-j.github.io)</b>
 <br>Tianyi Zhang, <b>Jie Lin*</b>, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly.
 <i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2021</b>.
@@ -120,9 +122,67 @@ Conferences
 Journals
 ======
 
+<b>A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction.</b>
+<br>Huijing Zhan, <b>Jie Lin*</b>, Kenan Emir Ak, Boxin Shi, Ling-Yu Duan, Alex C. Kot.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2021</b>.
+<br/>
 
+<b>Cross-modal Discriminant Adversarial Network.</b>
+<br>Peng Hu, Xi Peng, Hongyuan Zhu, <b>Jie Lin</b>, Liangli Zhen, Wei Wang, Dezhong Peng.
+<i>Pattern Recognition (PR).</i> <b>PR 2021</b>.
+<br/>
 
+<b>Joint vs. Independent Multi-view Hashing for Cross-view Retrieval.</b>
+<br>Peng Hu, Xi Peng, Hongyuan Zhu, <b>Jie Lin</b>, Liangli Zhen, Dezhong Peng.
+<i>IEEE Transactions on Cybernetics (T-CYB).</i> <b>T-CYB 2020</b>.
+<br/>
 
+<b>Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation and Feature Learning.</b>
+<br>Huijing Zhan, Chenyu Yi, Boxin Shi <b>Jie Lin</b>, Ling-Yu Duan, Alex C. Kot.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2020</b>.
+<br/>
 
+<b>Towards the AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs.</b>
+<br>Qaisar Ahmad Al Badawi Ahmad, Chao Jin, <b>Jie Lin</b>, Mun Chan, Jie  Sim, Tan Benjamin, Nan Xiao, Khin Aung, Vijay Chandrasekhar.
+<i>IEEE Transactions on Emerging Topics in Computing (T-ETC).</i> <b>T-ETC 2020</b>.
+<br/>
 
+<b>Multi-GPU Design and Performance Evaluation of Homomorphic Encryption on GPU Clusters.</b>
+<br>Qaisar Ahmad Al Badawi Ahmad, Bharadwaj Veeravalli, <b>Jie Lin</b>, Nan Xiao, Kazuaki Matsumura, Khin Aung.
+<i>IEEE Transactions on Parallel and Distributed Systems (T-PDS).</i> <b>T-PDS 2020</b>.
+<br/>
 
+<b>Codebook-Free Compact Descriptor for Scalable Visual Search.</b>
+<br>Yuwei Wu, Feng Gao, Yicheng Huang, <b>Jie Lin</b>, Vijay Chandrasekhar, Junsong Yuan, Lingyu Duan.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2018</b>.
+<br/>
+
+<b>HNIP: Compact Deep Invariant Representations for Video Matching, Localization and Retrieval.</b>
+<br><b>Jie Lin</b>, Lingyu Duan, Shiqi Wang, Yan Bai, Yihang Lou, Vijay Chandrasekhar, Tiejun Huang, Alex Kot, Wen Gao.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2017</b>.
+<br/>
+
+<b>3DHoPD: A Fast Low Dimensional 3D Descriptor.</b>
+<br>Sai Manoj Prakhya, <b>Jie Lin</b>, Vijay Chandrasekhar, Weisi Lin, Bingbing Liu.
+<i>IEEE Robotics and Automation Letters (IEEE RAL).</i> <b>IEEE RAL 2017</b>.
+<br/>
+
+<b>Towards Detection of Bus Driver Fatigue Based on Robust Visual Analysis of Eye State.</b>
+<br>Bappaditya Mandal, Liyuan Li, Gang Wang, <b>Jie Lin</b>.
+<i>IEEE Trans. on Intelligent Transportation Systems (T-ITS).</i> <b>T-ITS 2016</b>.
+<br/>
+
+<b>Overview of the MPEG-CDVS standard.</b>
+<br>Lingyu Duan, Vijay Chandrasekhar, Jie Chen, <b>Jie Lin</b>, Zhe Wang, Tiejun Huang, Bernd Girod, Wen Gao.
+<i>IEEE Trans. on Image Processing (T-IP).</i> <b>T-IP 2016</b>.
+<br/>
+
+<b>Weighted Component Hashing of Binary Aggregated Descriptors for Fast Visual Search.</b>
+<br>Lingyu Duan, <b>Jie Lin</b>, Zhe Wang, Tiejun Huang, Wen Gao.
+<i>IEEE Transactions on Multimedia (T-MM).</i> <b>TMM 2015</b>.
+<br/>
+
+<b>Rate-adaptive Compact Fisher Codes for Mobile Visual Search.</b>
+<br><b>Jie Lin</b>, Lingyu Duan, Yaping Huang, Siwei Luo, Tiejun Huang, Wen Gao.
+<i>IEEE Signal Processing Letters.</i> <b>IEEE SPL 2014</b>.
+<br/>
