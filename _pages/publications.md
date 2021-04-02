@@ -67,6 +67,21 @@ Conferences
 <i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2019</b>.
 <span>[[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_MaxpoolNMS_Getting_Rid_of_NMS_Bottlenecks_in_Two-Stage_Object_Detectors_CVPR_2019_paper.pdf), [bibtex](https://openaccess.thecvf.com/content_CVPR_2019/html/Cai_MaxpoolNMS_Getting_Rid_of_NMS_Bottlenecks_in_Two-Stage_Object_Detectors_CVPR_2019_paper.html)]</span><br/>
 
+<b>[Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text.](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5062&context=sis_research)</b>
+<br>Zhe Wang, Kingsley Kuan, Mathieu Ravaut, Gaurav Manek, Sibo Song, Fang Yuan, Kim Seokhwan, Nancy Chen, Luis Fernando D'Haro Enriquez, Luu Anh Tuan, Hongyuan Zhu, Zeng Zeng, Ngai Man Cheung, Georgios Piliouras, <b>Jie Lin</b>, Vijay Chandrasekhar.
+<i>CVPR Workshop on YouTube-8M Large-Scale Video Understanding, 2017.</i>
+<span>[[pdf](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5062&context=sis_research)]</span><br/>
+
+<b>[Nested Invariance Pooling and RBM Hashing for Image Instance Retrieval.](https://dl.acm.org/doi/10.1145/3078971.3078987)</b>
+<br>Olivier Morere^, <b>Jie Lin^</b>, Antoine Veillard^, Lingyu Duan, Vijay Chandrasekhar^, Tomaso Poggio.
+<i>ACM International Conference on Multimedia Retrieval (ICMR).</i> <b>ICMR 2017</b>. <span style="color:red">(Best paper nomination)</span>
+<span>[[pdf](https://oar.a-star.edu.sg/jspui/bitstream/123456789/2364/3/sample-nip.pdf), [bibtex](https://dl.acm.org/doi/10.1145/3078971.3078987)]</span><br/>
+
+<b>[DeepHash for Image Instance Retrieval: Getting Regularization, Depth and Fine-Tuning Right.](https://dl.acm.org/doi/abs/10.1145/3078971.3078983)</b>
+<br><b>Jie Lin^</b>, Olivier Morere^, Antoine Veillard^, Lingyu Duan, Hanlin Goh, Vijay Chandrasekhar^.
+<i>ACM International Conference on Multimedia Retrieval (ICMR).</i> <b>ICMR 2017</b>.
+<span>[[pdf](https://oar.a-star.edu.sg/jspui/bitstream/123456789/2365/3/sample-deephash.pdf), [bibtex](https://dl.acm.org/doi/abs/10.1145/3078971.3078983)]</span><br/>
+
 
 Journals
 ======
