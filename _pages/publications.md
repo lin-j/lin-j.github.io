@@ -45,6 +45,17 @@ Conferences
 <i>International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS).</i> <b>CODES+ISSS 2019</b>.
 <span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
 
+<b>[Optimizing the Bit Allocation for Compression of Weights and Activations of Deep Neural Networks.](http://lin-j.github.io)</b>
+<br>Zhe Wang, <b>Jie Lin</b>, Vijay Chandrasekhar, Bernd Girod.
+<i>IEEE International Conference on Image Processing (ICIP).</i> <b>ICIP 2019</b>. <span style="color:red">(Top 10% Paper)</span>
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
+
+<b>[TEA-DNN: the Quest for Time-Energy-Accuracy Co-optimized Deep Neural Networks.](http://lin-j.github.io)</b>
+<br>Lile Cai, Anne-Maelle Barneche, Arthur Herbout, Chuan Sheng Foo, <b>Jie Lin</b>, Vijay Chandrasekhar, Mohamed M Sabry Aly.
+<i>IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED).</i> <b>ISLPED 2019</b>. <span style="color:red">(Best paper nomination)</span>
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
+
+
 
 Journals
 ======
