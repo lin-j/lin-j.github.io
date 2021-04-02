@@ -7,9 +7,6 @@ author_profile: true
 
 <br>
 <b>Check my full publication list on [Google Scholar](https://scholar.google.com.sg/citations?user=bzhI8wcAAAAJ&hl=en).</b>
-<br>
-
-<br>
 <b> * denotes corresponding author, ^ denotes equal contribution.</b>
 <br>
 
