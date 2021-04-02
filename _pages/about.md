@@ -33,7 +33,7 @@ Education
 
 Work experience
 ------
-* Jun 2018 - present: Group Lead / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
+* Jun 2018 - present: Group Leader / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
   * Develop the next-generation edge AI hardware via full stack hardware-software co-optimization from deep learning algorithms down to silicon.
   * Develop new methods for compressing deep neural networks torwards fast, small and energy-efficient neural network inference for privacy-preserving applications.
   * Develop multi-modal deep learning and semi-supervised deep learning algorithms for perception tasks in challenging environments.
