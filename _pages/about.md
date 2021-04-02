@@ -24,9 +24,9 @@ Research Interests
 ------
 Deep Learning, AI Hardware, Privacy Preserving Machine Learning, Data Compression, Computer Vision
 
-<span style="color:red"> I am recruiting full-time research scientists with Ph.D. and master/undergraduate interns. If you are interested in research in hardware-aware neural networks, privacy-preserving AI and computer vision, please drop me a note.</span>
+<span style="color:red"> I am recruiting full-time research scientists with Ph.D. and master/undergraduate interns. If you are interested in research in hardware-aware neural networks, privacy-preserving AI and computer vision, please send your CV to my email.</span>
 
-<span style="color:red"> A*STAR provides </span> [graduate scholarships](https://www.a-star.edu.sg/Scholarships/for-graduate-studies) <span style="color:red"> to support young talents to pursue Ph.D. in NUS/NTU/SUTD, co-supervised by A*STAR scientists. If you intend to apply, please drop me a note. </span>
+<span style="color:red"> A*STAR provides </span> [graduate scholarships](https://www.a-star.edu.sg/Scholarships/for-graduate-studies) <span style="color:red"> to support young talents to pursue Ph.D. in NUS/NTU/SUTD, co-supervised by A*STAR scientists. If you intend to apply, please send your CV to my email. </span>
 
 Education
 ------
