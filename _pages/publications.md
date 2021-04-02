@@ -55,6 +55,10 @@ Conferences
 <i>IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED).</i> <b>ISLPED 2019</b>. <span style="color:red">(Best paper nomination)</span>
 <span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
 
+<b>[MaxpoolNMS: Getting Rid of NMS Bottlenecks in Two-Stage Object Detectors.](http://lin-j.github.io)</b>
+<br>Lile Cai, Bin Zhao, Zhe Wang, <b>Jie Lin *</b>, Chuan Sheng Foo, Mohamed Sabry Aly, Vijay Chandrasekhar.
+<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2019</b>.
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
 
 
 Journals
