@@ -95,7 +95,7 @@ Conferences
 <span>[[pdf](https://ieeexplore.ieee.org/document/7923643), [bibtex](https://ieeexplore.ieee.org/document/7923643)]</span><br/>
 
 * <b>[Tiny Descriptors for Image Retrieval with Unsupervised Triplet Hashing.](https://ieeexplore.ieee.org/document/7786184)</b>
-<br><b>Jie Lin^</b>, Olivier Morere, Julie Petta, Vijay Chandrasekhar, Antoine Veillard.
+<br><b>Jie Lin</b>, Olivier Morere, Julie Petta, Vijay Chandrasekhar, Antoine Veillard.
 <i>Data Compression Conference (DCC).</i> <b>DCC 2016</b>.
 <span>[[pdf](https://ieeexplore.ieee.org/document/7786184), [bibtex](https://ieeexplore.ieee.org/document/7786184)]</span><br/>
 
@@ -138,7 +138,7 @@ Journals
 <br/>
 
 * <b>Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation and Feature Learning.</b>
-<br>Huijing Zhan, Chenyu Yi, Boxin Shi <b>Jie Lin</b>, Ling-Yu Duan, Alex C. Kot.
+<br>Huijing Zhan, Chenyu Yi, Boxin Shi, <b>Jie Lin</b>, Ling-Yu Duan, Alex C. Kot.
 <i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2020</b>.
 <br/>
 
