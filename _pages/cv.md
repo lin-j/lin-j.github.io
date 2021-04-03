@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lin Jie"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My resume [PDF]](http://lin-j.github.io/CV_LinJie_2021.pdf)
+[Download [PDF]](http://lin-j.github.io/CV_LinJie_2021.pdf)
