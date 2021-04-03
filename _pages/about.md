@@ -28,28 +28,37 @@ Deep Learning, AI Hardware, Privacy Preserving Machine Learning, Data Compressio
 
 <span style="color:red"> A*STAR provides </span> [graduate scholarships](https://www.a-star.edu.sg/Scholarships/for-graduate-studies) <span style="color:red"> to support young talents to pursue Ph.D. in NUS/NTU/SUTD, co-supervised by A*STAR scientists. If you intend to apply, please send your CV to my email. </span>
 
+<!---
 Education
 ------
 * B.S., Beijing Jiaotong University, 2006
 * Ph.D, Beijing Jiaotong University, 2013
   * Thesis: Compact Aggregated Descriptors for Mobile Visual Search
   * Keywords: Mobile Image Search, Data Compression, MPEG-7 Standardization
+-->
 
+<!---
 Work Experience
 ------
 * Jun 2018 - present: Group Leader / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
   * Develop the next-generation edge AI hardware via full stack hardware-software co-optimization from deep learning algorithms down to silicon.
   * Develop new methods for compressing deep neural networks torwards fast, small and energy-efficient neural network inference for privacy-preserving applications.
   * Develop multi-modal deep learning and semi-supervised deep learning algorithms for perception tasks in challenging environments.
-
 * Aug 2014 - May 2018: Research Scientist. Institute for Infocomm Research (I2R), A*STAR, Singapore
   * Develop multi-modal (video, audio, text) deep learning system for YouTube8M video classification (Kaggle competition, ranked at Top 3% out of 650 teams).
   * Develop 3D CT-scan lung cancer detection system using YOLO architecture and 3D Convolutional Neural Networks (CNN)  (Kaggle Data Science Bowl 2017, ranked at Top 2% out of 1972 teams).
   * Develop deep learning based compact representations (64 to 1024 bits) to enable ultra-fast image and video search.
-
 * Sep 2011 - Jul 2014: Visting scholar. Institute of Digital Media, Peking University / Rose Lab, Nanyang Technological University
   * Participate in the MPEG-7 international standardization on Compact Descriptors for Visual Search (CDVS)
   * Develop compact global descriptor termed Scalable Compressed Fisher Vector (SCFV), which has been adopted as one of the three key technologies in final MPEG CDVS.
+-->
+
+News
+------
+* Mar 2021 - 2 papers got accepted to CVPR 2021. Congrats to Tianyi and Hu Peng.
+* Feb 2021 - 1 paper got accepted to DAC 2021 - Ranked #1 conference in Computer Hardware Design. Congrats to Chunyun and Wang Zhe.
+* Feb 2021 - 1 paper got accepted to IEEE T-MM. Congrats to Huijing.
+* Dec 2020 - 1 paper got accepted to AAAI 2021. Congrats to Hu Peng.
 
 Services
 ------
