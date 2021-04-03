@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Since 2018, I lead the Edge AI group at I2R A*STAR Singapore, with a focus on development of compact neural networks and the applications for the next-generation deep learning hardware, efficient deep learning on encrypted data for privacy preserving, TinyML for IoT, etc.
+Since 2018, I lead the Edge AI group at I2R A*STAR Singapore, with the focus on development of compact neural networks and the applications for the next-generation deep learning hardware, efficient deep learning on encrypted data for privacy preserving, TinyML for IoT, etc.
 
 From 2011 – 2014, I served as core contributor to the MPEG-7 International standardization on [Compact Descriptors for Visual Search (CDVS)](http://mpeg.chiariglione.org/standards/mpeg-7/compact-descriptors-visual-search)
 Contributions on scalable and compact global descriptor are adopted by MPEG CDVS as one of the three core technologies, 
