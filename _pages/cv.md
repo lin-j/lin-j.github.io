@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download [PDF]](http://lin-j.github.io/CV_LinJie_2021.pdf)
+[Download [PDF]](http://lin-j.github.io/CV_LinJie_2021_3page.pdf)
