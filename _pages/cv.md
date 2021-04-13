@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download [PDF]](http://lin-j.github.io/files/CV_LinJie_2021_3page.pdf)
+Drop me a note for my resume in PDF
