@@ -55,6 +55,7 @@ Work Experience
 
 News
 ------
+* Jun 2021 - 1 paper got accepted to MICCAI 2021. Congrats to Yu Yang.
 * Mar 2021 - 2 papers got accepted to CVPR 2021. Congrats to Tianyi and Hu Peng.
 * Feb 2021 - 1 paper got accepted to DAC 2021 - Ranked #1 conference in Computer Hardware Design. Congrats to Chunyun and Wang Zhe.
 * Feb 2021 - 1 paper got accepted to IEEE T-MM. Congrats to Huijing.
