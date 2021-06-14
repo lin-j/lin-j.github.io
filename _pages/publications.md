@@ -39,6 +39,11 @@ Conferences
 <i>AAAI Conference on Artificial Intelligence (AAAI).</i> <b>AAAI 2021</b>.
 <span>[[pdf](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf)]</span><br/>
 
+* <b>[Multimodal Multitask Deep Learning for X-Ray Image Retrieval.](http://lin-j.github.io)</b>
+<br>Yang Yu, Peng Hu, <b>Jie Lin*</b>, Pavitra Krishnaswamy.
+<i>Medical Image Computing and Computer Assisted Interventions.</i> <b>MICCAI 2021</b>.
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
+
 * <b>[Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition.](https://ojs.aaai.org//index.php/AAAI/article/view/5339)</b>
 <br>Peng Hu, Hongyuan Zhu, Xi Peng, <b>Jie Lin*</b>.
 <i>AAAI Conference on Artificial Intelligence (AAAI).</i> <b>AAAI 2020</b>.
