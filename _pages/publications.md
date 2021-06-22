@@ -40,7 +40,7 @@ Conferences
 <span>[[pdf](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf)]</span><br/>
 
 * <b>[Multimodal Multitask Deep Learning for X-Ray Image Retrieval.](http://lin-j.github.io)</b>
-<br>Yang Yu, Peng Hu, <b>Jie Lin*</b>, Pavitra Krishnaswamy.
+<br>Yang Yu, Peng Hu, <b>Jie Lin</b>, Pavitra Krishnaswamy.
 <i>Medical Image Computing and Computer Assisted Interventions.</i> <b>MICCAI 2021</b>.
 <span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
 
