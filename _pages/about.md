@@ -55,6 +55,7 @@ Work Experience
 
 News
 ------
+* Sept 2021 - I was invited to be a senior program committee member for AAAI 2022.
 * Jun 2021 - 1 paper got accepted to IEEE T-CYB. Congrats to Hu Peng.
 * Jun 2021 - 1 paper got accepted to MICCAI 2021. Congrats to Yu Yang.
 * Mar 2021 - 2 papers got accepted to CVPR 2021. Congrats to Tianyi and Hu Peng.
@@ -64,6 +65,8 @@ News
 
 Services
 ------
+* Senior Program Committee for
+  * AAAI
 * Reviewer/Program Committee for
   * CVPR, ICCV, AAAI, IJCAI, ICMR, ICIP, ICME, etc.
   * IEEE T-IP, IEEE T-MM, IEEE T-NNLS, IEEE T-CSVT, IEEE RAL, Journal of VCIP, EURASIP Journal on Image and Video Processing, etc.
