@@ -55,6 +55,7 @@ Work Experience
 
 News
 ------
+* Nov 2021 - 1 paper got accepted to DATE 2022. Congrats to Chunyun and Tianyi.
 * Sept 2021 - I was invited to be a senior program committee member for AAAI 2022.
 * Jun 2021 - 1 paper got accepted to IEEE T-CYB. Congrats to Hu Peng.
 * Jun 2021 - 1 paper got accepted to MICCAI 2021. Congrats to Yu Yang.
