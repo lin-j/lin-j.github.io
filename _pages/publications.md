@@ -19,6 +19,11 @@ Book Chapter
 Conferences
 ======
 
+* <b>[Scalable Hardware Accelerator of Non-Maximum Suppression.](http://lin-j.github.io)</b>
+<br>Chunyun Chen, Tianyi Zhang, Yuze Hui, Adithi Raghuraman, Shwetalaxmi Udayan, <b>Jie Lin</b>, Mohamed M. Sabry Aly.
+<i>Design, Automation and Test in Europe (DATE).</i> <b>DATE 2022</b>.
+<span>[[pdf](https://lin-j.github.io), [bibtex](https://lin-j.github.io)]</span><br/>
+
 * <b>[PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery.](http://lin-j.github.io)</b>
 <br>Tianyi Zhang, <b>Jie Lin*</b>, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly.
 <i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</i> <b>CVPR 2021</b>.
