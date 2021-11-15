@@ -132,6 +132,11 @@ Conferences
 Journals
 ======
 
+* <b>Deep Semisupervised Multiview Learning With Increasing Views.</b>
+<br>Peng Hu, Xi Peng, Hongyuan Zhu, Liangli Zhen, <b>Jie Lin</b>, Huaibai Yan, Dezhong Peng.
+<i>IEEE Transactions on Cybernetics (T-CYB).</i> <b>T-CYB 2021</b>.
+<br/>
+
 * <b>A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction.</b>
 <br>Huijing Zhan, <b>Jie Lin*</b>, Kenan Emir Ak, Boxin Shi, Ling-Yu Duan, Alex C. Kot.
 <i>IEEE Transactions on Multimedia (T-MM).</i> <b>T-MM 2021</b>.
@@ -140,6 +145,11 @@ Journals
 * <b>Cross-modal Discriminant Adversarial Network.</b>
 <br>Peng Hu, Xi Peng, Hongyuan Zhu, <b>Jie Lin</b>, Liangli Zhen, Wei Wang, Dezhong Peng.
 <i>Pattern Recognition (PR).</i> <b>PR 2021</b>.
+<br/>
+
+* <b>Lifelog Image Retrieval Based on Semantic Relevance Mapping.</b>
+<br>Qianli Xu, Ana Garcia Del Molino, <b>Jie Lin</b>, Fen Fang, Vigneshwaran Subbaraju, Liyuan Li, Joo-Hwee Lim.
+<i>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).</i> <b>TOMM 2021</b>.
 <br/>
 
 * <b>Joint vs. Independent Multi-view Hashing for Cross-view Retrieval.</b>
