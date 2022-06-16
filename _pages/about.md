@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Since 2018, I lead the Edge AI group at I2R A*STAR Singapore, with the focus on development of compact neural networks and the applications for the next-generation deep learning hardware, efficient deep learning on encrypted data for privacy preserving, TinyML for IoT, etc.
+I lead the Edge AI group at I2R A*STAR Singapore from 2018 to 2022, with the focus on development of compact neural networks and the applications for the next-generation deep learning hardware, efficient deep learning on encrypted data for privacy preserving, TinyML for IoT, etc.
 
 From 2011 – 2014, I served as core contributor to the MPEG-7 International standardization on [Compact Descriptors for Visual Search (CDVS)](http://mpeg.chiariglione.org/standards/mpeg-7/compact-descriptors-visual-search)
 Contributions on scalable and compact global descriptor are adopted by MPEG CDVS as one of the three core technologies, 
@@ -40,7 +40,7 @@ Education
 <!---
 Work Experience
 ------
-* Jun 2018 - present: Group Leader / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
+* Jun 2018 - Jun 2022: Group Leader / Edge AI Group, Principal Investigator. Institute for Infocomm Research (I2R), A*STAR, Singapore
   * Develop the next-generation edge AI hardware via full stack hardware-software co-optimization from deep learning algorithms down to silicon.
   * Develop new methods for compressing deep neural networks torwards fast, small and energy-efficient neural network inference for privacy-preserving applications.
   * Develop multi-modal deep learning and semi-supervised deep learning algorithms for perception tasks in challenging environments.
@@ -69,5 +69,5 @@ Services
 * Senior Program Committee for
   * AAAI
 * Reviewer/Program Committee for
-  * CVPR, ICCV, AAAI, IJCAI, ICMR, ICIP, ICME, etc.
-  * IEEE T-IP, IEEE T-MM, IEEE T-NNLS, IEEE T-CSVT, IEEE RAL, Journal of VCIP, EURASIP Journal on Image and Video Processing, etc.
+  * CVPR, ICCV, ECCV, AAAI, IJCAI, ICMR, ICIP, ICME, etc.
+  * IEEE T-IP, IEEE T-MM, IEEE T-NNLS, IEEE T-CSVT, IEEE T-MI, IEEE RAL, Journal of VCIP, EURASIP Journal on Image and Video Processing, etc.
